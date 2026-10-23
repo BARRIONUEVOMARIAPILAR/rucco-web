@@ -49,7 +49,7 @@
       "nombre": "Anillo flor perla  — Acero dorado",
       "categoria": "Acero Dorado",
       "descripcion": "",
-      "precio": 9.5,
+      "precio": 9500,
       "stock": 1,
       "nuevo": true,
       "imagenes": [
@@ -61,8 +61,8 @@
       "nombre": "Pulsera arabesca  — Acero dorado",
       "categoria": "Acero Dorado",
       "descripcion": "",
-      "precio": 10.5,
-      "stock": 3,
+      "precio": 10500,
+      "stock": 1,
       "nuevo": true,
       "imagenes": [
         "img/aros-acero-dorado-1792758725437-0.jpg"
@@ -91,6 +91,18 @@
       "imagenes": [
         "img/pulsera-acero-quirurgico-1792760352313-0.jpg",
         "img/pulsera-acero-quirurgico-1792760354840-1.jpg"
+      ]
+    },
+    {
+      "id": "pulsera-pecesillo",
+      "nombre": "Pulsera Pecesillo",
+      "categoria": "Acero Blanco",
+      "descripcion": "",
+      "precio": 9000,
+      "stock": 1,
+      "nuevo": true,
+      "imagenes": [
+        "img/pulsera-pecesillo-1792761099014-0.jpg"
       ]
     }
   ]
