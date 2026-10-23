@@ -1,10 +1,10 @@
 {
   "config": {
     "instagram": "rucco",
-    "whatsapp": "5492615674307",
     "facebook": "rucco",
-    "anuncio": "Envíos a todo el país · 20% OFF abonando por transferencia",
-    "descuentoTransferencia": 20,
+    "whatsapp": "5492615674307",
+    "anuncio": "Envíos a todo el país ·",
+    "descuentoTransferencia": 0,
     "cuotas": 0
   },
   "productos": [
@@ -60,68 +60,68 @@
     },
     {
       "id": "collar-acero-blanco",
-      "nombre": "Collar dije corazón — Acero blanco",
+      "nombre": "Anillo infinito corazón — Acero blanco",
       "categoria": "Acero Blanco",
       "descripcion": "",
-      "precio": 17000,
-      "stock": 10,
-      "nuevo": false,
-      "imagenes": []
+      "precio": 8000,
+      "stock": 2,
+      "nuevo": true,
+      "imagenes": [
+        "img/collar-acero-blanco-1792758717839-0.jpg"
+      ]
     },
     {
       "id": "anillo-acero-dorado",
-      "nombre": "Anillo ajustable — Acero dorado",
+      "nombre": "Pulsera candados  — Acero dorado",
       "categoria": "Acero Dorado",
       "descripcion": "",
       "precio": 14000,
-      "stock": 10,
+      "stock": 1,
       "nuevo": true,
-      "imagenes": []
+      "imagenes": [
+        "img/anillo-acero-dorado-1792758720421-0.jpg"
+      ]
     },
     {
       "id": "cadena-acero-dorado",
-      "nombre": "Cadena cubana — Acero dorado",
+      "nombre": "Anillo flor perla  — Acero dorado",
       "categoria": "Acero Dorado",
       "descripcion": "",
-      "precio": 21000,
-      "stock": 10,
-      "nuevo": false,
-      "imagenes": []
+      "precio": 9.5,
+      "stock": 1,
+      "nuevo": true,
+      "imagenes": [
+        "img/cadena-acero-dorado-1792758722673-0.jpg"
+      ]
     },
     {
       "id": "aros-acero-dorado",
-      "nombre": "Aros argolla — Acero dorado",
+      "nombre": "Pulsera arabesca  — Acero dorado",
       "categoria": "Acero Dorado",
       "descripcion": "",
-      "precio": 13000,
-      "stock": 10,
-      "nuevo": false,
-      "imagenes": []
-    },
-    {
-      "id": "aros-acero-quirurgico",
-      "nombre": "Aros básicos hipoalergénicos — Acero quirúrgico",
-      "categoria": "Acero Quirúrgico",
-      "descripcion": "",
-      "precio": 9500,
-      "stock": 10,
-      "nuevo": false,
-      "imagenes": []
+      "precio": 10.5,
+      "stock": 3,
+      "nuevo": true,
+      "imagenes": [
+        "img/aros-acero-dorado-1792758725437-0.jpg"
+      ]
     },
     {
       "id": "piercing-acero-quirurgico",
-      "nombre": "Piercing nariz — Acero quirúrgico",
-      "categoria": "Acero Quirúrgico",
+      "nombre": "Esclava brillos  — Enchapada en oro",
+      "categoria": "Joyas",
       "descripcion": "",
-      "precio": 8000,
-      "stock": 10,
-      "nuevo": false,
-      "imagenes": []
+      "precio": 20000,
+      "stock": 1,
+      "nuevo": true,
+      "imagenes": [
+        "img/piercing-acero-quirurgico-1792758727898-0.jpg"
+      ]
     },
     {
       "id": "pulsera-acero-quirurgico",
       "nombre": "Pulsera eslabones — Acero quirúrgico",
-      "categoria": "Acero Quirúrgico",
+      "categoria": "Acero Blanco",
       "descripcion": "",
       "precio": 16000,
       "stock": 10,
