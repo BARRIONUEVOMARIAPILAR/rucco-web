@@ -9,54 +9,16 @@
   },
   "productos": [
     {
-      "id": "anillo-plata-liso",
-      "nombre": "Anillo liso — Plata 925",
-      "categoria": "Plata 925",
-      "descripcion": "",
-      "precio": 22000,
-      "stock": 10,
-      "nuevo": true,
-      "imagenes": []
-    },
-    {
-      "id": "anillo-plata-piedra",
-      "nombre": "Anillo con piedra — Plata 925",
-      "categoria": "Plata 925",
-      "descripcion": "",
-      "precio": 26000,
-      "stock": 10,
-      "nuevo": false,
-      "imagenes": []
-    },
-    {
-      "id": "aros-plata-criolla",
-      "nombre": "Aros criolla chica — Plata 925",
-      "categoria": "Plata 925",
-      "descripcion": "",
-      "precio": 19000,
-      "stock": 10,
-      "nuevo": false,
-      "imagenes": []
-    },
-    {
-      "id": "cadena-plata-barbada",
-      "nombre": "Cadena barbada — Plata 925",
-      "categoria": "Plata 925",
-      "descripcion": "",
-      "precio": 34000,
-      "stock": 0,
-      "nuevo": false,
-      "imagenes": []
-    },
-    {
       "id": "pulsera-acero-blanco",
-      "nombre": "Pulsera cadena fina — Acero blanco",
-      "categoria": "Acero Blanco",
+      "nombre": "Collar Caracol— Acero Dorado",
+      "categoria": "Acero Dorado",
       "descripcion": "",
-      "precio": 15000,
-      "stock": 10,
-      "nuevo": false,
-      "imagenes": []
+      "precio": 12000,
+      "stock": 1,
+      "nuevo": true,
+      "imagenes": [
+        "img/pulsera-acero-blanco-1792760349143-0.jpg"
+      ]
     },
     {
       "id": "collar-acero-blanco",
@@ -120,13 +82,16 @@
     },
     {
       "id": "pulsera-acero-quirurgico",
-      "nombre": "Pulsera eslabones — Acero quirúrgico",
-      "categoria": "Acero Blanco",
+      "nombre": "Anillo Alga",
+      "categoria": "Acero Dorado",
       "descripcion": "",
-      "precio": 16000,
-      "stock": 10,
-      "nuevo": false,
-      "imagenes": []
+      "precio": 9000,
+      "stock": 1,
+      "nuevo": true,
+      "imagenes": [
+        "img/pulsera-acero-quirurgico-1792760352313-0.jpg",
+        "img/pulsera-acero-quirurgico-1792760354840-1.jpg"
+      ]
     }
   ]
 }
